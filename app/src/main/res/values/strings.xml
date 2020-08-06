@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SpinnerWithApi</string>
+    <string name="daily">Daily Cost</string>
+</resources>
